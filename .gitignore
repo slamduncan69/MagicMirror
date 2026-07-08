@@ -1,0 +1,11 @@
+# Python virtualenv used only for local PC testing
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime log written by the script
+magicmirror.log
+
+# Editor/OS cruft
+*.bak
+.DS_Store
